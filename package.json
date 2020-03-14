@@ -16,8 +16,5 @@
     "gulp-sass": "^4.0.2",
     "node-sass": "^4.13.1",
     "tailwindcss": "^1.2.0"
-  },
-  "engines": {
-    "node": "12.x"
   }
 }
